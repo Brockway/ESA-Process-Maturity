@@ -18,3 +18,5 @@ There are 4 defined processes in this ESA model:
 In 2014 OWASP released version 2 of their Application Security Verification Standard (ASVS, it has since been updated -  https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project). The ASVS is an excellent and implementable measurement of SDLC maturity. SDLC happens to be the first of the above four processes, so the thought was to apply the ASVS framework to each of the other three processes to get a more detailed picture of the maturity of them.
 
 Most audit frameworks ask questions like "Do you perform periodic vulnerability scans? (y/n)" and are not equiped to answer the more important and real-world question of "How mature is your vulnerability management process?"
+
+This framework is licensed under the Apache 2 license.
